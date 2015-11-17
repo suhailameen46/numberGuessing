@@ -403,6 +403,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = whatNumber/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.in.codestruck.whatNumber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -414,6 +415,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = whatNumber/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = co.in.codestruck.whatNumber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -487,6 +489,7 @@
 				1A9464BD1BFA25F200094376 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A9464BE1BFA25F200094376 /* Build configuration list for PBXNativeTarget "whatNumberTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +498,7 @@
 				1A9464C01BFA25F200094376 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A9464C11BFA25F200094376 /* Build configuration list for PBXNativeTarget "whatNumberUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +507,7 @@
 				1A9464C31BFA25F200094376 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
